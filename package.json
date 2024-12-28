@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "RichH",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "handlebars": "^4.7.8"
+  }
 }
