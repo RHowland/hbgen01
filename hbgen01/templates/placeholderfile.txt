@@ -1,3 +1,0 @@
-placeholderfile.txt
-Git for Windows will not commit empty folders so 
-we use this file to fix that issue. 
